@@ -1,0 +1,35 @@
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css";
+
+.imgFooter{
+  max-width: 85px;
+}
+
+.apps{
+  max-width: 125px;
+}
+
+.barraApps{
+  background-color: #4AB9E9;
+  text-align: center;
+  padding: 15px 0;
+}
+
+.navbar-header img{
+  max-width: 75px;
+}
+
+.overlayImg{
+  max-height: 418px;
+}
+
+li{
+  font-size: 13px;
+}
+
+.card-body{
+  padding: 0 20px;
+}
+
+.container{
+  padding: 0 30px;
+}
